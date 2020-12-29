@@ -1,0 +1,47 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    
+   
+    
+    
+   
+    
+}
+.wrapper {
+    width: 1200px;
+    text-align: center;
+   
+    
+}
+/* Header */
+.header{
+    padding-top: 30px;
+    display: flex;
+    display: inline-flex;
+    text-align: center;
+}
+.photo {
+    width: 150px;
+    height: 250px;
+    border-radius: 20% ;
+}
+.title-contacts {
+
+    padding: 60px 40px;
+}
+.title-contacts_icons {
+    padding-left: 20px;
+}
+
+/* main */
+.main {
+    text-align: start;
+    padding-left: 250px;
+}
+h2 {
+    color: #BFB363;
+}
+.education_link {
+    color: black;
+}
