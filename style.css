@@ -1,18 +1,25 @@
 body{
     font-family: "Open Sans", sans-serif;
     font-size: 16px;
+<<<<<<< Updated upstream
     
    
     
     
    
     
+=======
+>>>>>>> Stashed changes
 }
 .wrapper {
     width: 1200px;
     text-align: center;
+<<<<<<< Updated upstream
    
     
+=======
+    margin: 0 auto;
+>>>>>>> Stashed changes
 }
 /* Header */
 .header{
@@ -22,14 +29,29 @@ body{
     text-align: center;
 }
 .photo {
+<<<<<<< Updated upstream
     width: 150px;
     height: 250px;
     border-radius: 20% ;
+=======
+    width: 200px;
+    height: 350px;
+    border-radius: 7%;
+>>>>>>> Stashed changes
 }
 .title-contacts {
 
     padding: 60px 40px;
 }
+<<<<<<< Updated upstream
+=======
+.icons {
+    display: flex;
+}
+.contacts-li {
+    list-style: none;
+}
+>>>>>>> Stashed changes
 .title-contacts_icons {
     padding-left: 20px;
 }
