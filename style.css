@@ -43,3 +43,9 @@ h2 {
 .education_link {
     color: black;
 }
+
+.footer-line {
+    height: 5px;
+    width: 100%;
+    background-color: black;
+}
